@@ -9,6 +9,10 @@ h2 {
   font-family: 'Redressed', cursive;
   font-size: 20px;
 }
+.headerMeu {
+  background: #ffffff21;
+  box-shadow: 2px 5px 25px #ff00005b;
+}
 .bordaCarroselJennifer {
   background: #ff00bf8f;
 }
